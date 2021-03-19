@@ -1,3 +1,3 @@
 #Display the output
 
-print("New Smython File")
+print("New Python File")
